@@ -1,0 +1,9 @@
+
+{
+  "name": "TradeLens AI - Ultra Pro",
+  "description": "Plataforma Institucional de Análise Técnica com IA Gemini 3 Pro e Gestão de Risco Quant.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
